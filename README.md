@@ -1,0 +1,2 @@
+# Accounting
+Odoo Accounting
